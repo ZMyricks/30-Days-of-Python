@@ -1,3 +1,2 @@
-This is a repo for based on the 30-days-of-Python challenge by Asabeneh
-You can find more information here
-https://github.com/Asabeneh/30-Days-Of-Python
+Welcome to my Github repo for learning Python! 
+I have a ton of project in here, so feel free to look around
